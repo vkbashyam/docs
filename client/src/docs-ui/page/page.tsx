@@ -333,6 +333,7 @@ export class DocsPage {
                                   key={this.pageData.route}
                                   page={this.pageData}
                                 />,
+				<p>this is a test</p>,
                               ]}
                             </amplify-toc-contents>
                             <amplify-sidebar-layout-toggle
