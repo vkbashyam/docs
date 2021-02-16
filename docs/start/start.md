@@ -1,10 +1,11 @@
 ---
-title: Getting started
+title: Getting started for real this time please
 description: Getting Started with reproducing errors in Amplify Framework
 disableTOC: true
 filterKey: integration
 ---
 
+Surely this is enough to change the hash, right?
 The open-source Amplify Framework provides the following products to build fullstack iOS, Android, Flutter, Web, and React Native apps:
 - **Amplify [CLI](~/cli/cli.md)** - Configure all the services needed to power your backend through a simple command line interface.
 - **Amplify [Libraries](~/lib/lib.md)** - Use case-centric client libraries to integrate your app code with a backend using declarative interfaces.
